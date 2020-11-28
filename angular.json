@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "springFXQng"
+  "defaultProject": "springFXQng",
+  "cli": {
+    "analytics": "563e94e3-a43a-4a68-b1c2-630c7391cae9"
+  }
 }
